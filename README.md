@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=v-aibhavbajaj2520&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vaibhavraj072&icon=2&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 I'm a passionate developer and the creator of theYukt - a web platform dedicated to connecting IT students with a shared interest in hackathons and competitions. With a focus on enhancing networking opportunities for students, theYukt aims to help users find like-minded team members and thrive in collaborative environments.
