@@ -10,7 +10,7 @@ As a fervent developer, I’ve crafted theYukt, an innovative web platform that 
 - **Languages**: JavaScript, Python, HTML, CSS  
 - **Frameworks & Libraries**: Node.js, Flask  
 - **Tools**: Git, Figma, VS Code
--**Additional Skills**: Content Writing, Blogging, Template Design
+- **Additional Skills**: Content Writing, Blogging, Template Design
 
   
 💡**My Interests:**  
