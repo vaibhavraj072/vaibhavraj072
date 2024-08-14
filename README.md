@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=vaibhavraj072&icon=2&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-As a fervent developer, I’ve crafted theYukt, an innovative web platform that bridges IT students with a shared zeal for hackathons and competitive challenges. theYukt is not merely a networking tool—it's a dynamic nexus where aspiring tech aficionados can connect with like-minded peers, forging partnerships that spark creativity and drive success in collaborative ventures.
+As a fervent developer, we are crafting theYukt, an innovative web platform that bridges IT students with a shared zeal for hackathons and competitive challenges. theYukt is not merely a networking tool—it's a dynamic nexus where aspiring tech aficionados can connect with like-minded peers, forging partnerships that spark creativity and drive success in collaborative ventures.
 
 🌟 **What I'm Working On:**
 - **theYukt**: Together with my collaborator, Vaibhav Bajaj and Vineet Ceres, I’m immersed in developing and designing this platform. We’re dedicated to creating a robust and intuitive network that streamlines connections for IT students, making collaboration and engagement seamless and effective.
