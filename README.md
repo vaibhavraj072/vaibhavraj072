@@ -137,7 +137,7 @@ class VaibhavRaj:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavraj072&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
 </div>
 
 <br/>
@@ -191,7 +191,7 @@ class VaibhavRaj:
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vaibhavraj072/vaibhavraj072/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
@@ -233,19 +233,19 @@ I'm always open to **technology discussions**, **AI & software development**, **
 
 <br/>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/vaibhavrraj/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://vaibhavrajportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_TWITTER_URL">
+  <a href="https://x.com/vaibhav__rraj">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:vaibhavraj2396@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
