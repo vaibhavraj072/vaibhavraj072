@@ -12,7 +12,7 @@
 
 <!-- Profile Views + Social Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavraj&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vaibhavraj072&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
   &nbsp;
   <a href="https://www.linkedin.com/in/vaibhavrraj/              ">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -126,7 +126,7 @@ class VaibhavRaj:
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&border_radius=10" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=vaibhavraj072&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&border_radius=10" width="70%" />
 </div>
 
 <br/>
