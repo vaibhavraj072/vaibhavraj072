@@ -152,8 +152,6 @@ class VaibhavRaj:
 | 🚀 Project | 💡 Description | 🛠️ Stack |
 |:---|:---|:---|
 | **[EnvestApp](YOUR_LINK)** | AI-powered stock portfolio intelligence platform — filters financial news & performs sentiment analysis for smarter investing | Python · ML · Sentiment Analysis · React |
-| **[Digital Exam Platform](YOUR_LINK)** | Secure online exam system with multi-class support, automated grading, role-based access & performance analytics | Node.js · Express · MongoDB · React |
-| **[QR Attendance System](YOUR_LINK)** | Smart QR-based attendance & event management with automated entry/exit logging | Node.js · QR · MongoDB |
 | **[Bulk Email Automation](YOUR_LINK)** | Personalized bulk email tool with scheduling, CSV uploads, attachments & SMTP delivery | Python · SMTP · Automation |
 | **[Portfolio Website](YOUR_LINK)** | Modern developer portfolio showcasing projects, skills & professional journey | React · CSS · Responsive Design |
 
