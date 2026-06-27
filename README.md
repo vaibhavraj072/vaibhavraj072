@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+2<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vaibhav%20Raj&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20and%20Full%20Stack%20Developer&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
 </div>
@@ -114,13 +114,13 @@ class VaibhavRaj:
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavraj072&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_radius=10" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavraj072&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_radius=10" height="165" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vaibhavraj072&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6)
+
 </div>
 
 <br/>
@@ -133,11 +133,11 @@ class VaibhavRaj:
 
 ---
 
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
+<!-- GitHub Activity Graph -->
+## 📈 Profile Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavraj072&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavraj072&theme=github-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 <br/>
@@ -153,7 +153,7 @@ class VaibhavRaj:
 |:---|:---|:---|
 | **[EnvestApp](YOUR_LINK)** | AI-powered stock portfolio intelligence platform — filters financial news & performs sentiment analysis for smarter investing | Python · ML · Sentiment Analysis · React |
 | **[Bulk Email Automation](YOUR_LINK)** | Personalized bulk email tool with scheduling, CSV uploads, attachments & SMTP delivery | Python · SMTP · Automation |
-| **[Portfolio Website](YOUR_LINK)** | Modern developer portfolio showcasing projects, skills & professional journey | React · CSS · Responsive Design |
+| **[Portfolio Website](https://vaibhavrajportfolio.vercel.app)** | Modern developer portfolio showcasing projects, skills & professional journey | React · CSS · Responsive Design |
 
 </div>
 
