@@ -1,4 +1,4 @@
-2<!-- Header Banner -->
+<!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Vaibhav%20Raj&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=AI%20and%20Full%20Stack%20Developer&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%" />
 </div>
