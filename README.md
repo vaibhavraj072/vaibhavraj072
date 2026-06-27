@@ -189,7 +189,7 @@ class VaibhavRaj:
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaibhavraj072/vaibhavraj072/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github.com/vaibhavraj072/vaibhavraj072/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
