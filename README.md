@@ -123,7 +123,7 @@
 | 🚀 Project | 💡 Description | 🛠️ Stack | Links |
 |:---|:---|:---|:---:|
 | **Portfolio Website** | Modern developer portfolio showcasing projects, skills & professional journey | React · CSS · Responsive Design | [🌐 Live](https://vaibhavrajportfolio.vercel.app) |
-| **EnvestApp** | AI-powered stock portfolio intelligence platform — filters financial news & performs sentiment analysis for smarter investing | Python · ML · Sentiment Analysis · React | [📁 Repo](https://github.com/vaibhavraj072) |
+| **EnvestApp** | AI-powered stock portfolio intelligence platform — filters financial news & performs sentiment analysis for smarter investing | Python · ML · Sentiment Analysis · React | [📁 Repo](https://EquityMind.verce.app) |
 | **Bulk Email Automation** | Personalized bulk email tool with scheduling, CSV uploads, attachments & SMTP delivery | Python · SMTP · Automation | [🌐 Live](https://bulkail.vercel.app) |
 
 </div>
