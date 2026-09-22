@@ -105,9 +105,9 @@
 
 <div align="center">
 
-| 🔥 Contribution Streak | 📈 Activity Evolution |
+| 🔥 Contribution Streak | 📈 Profile Summary |
 | :---: | :---: |
-| <img src="https://streak-stats.demolab.com?user=vaibhavraj072&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0d1117&amp;ring=58a6ff&amp;fire=ff9900&amp;currStreakLabel=58a6ff&amp;border_radius=10" width="100%" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavraj072&amp;theme=github-dark&amp;hide_border=true&amp;area=true" width="100%" /> |
+| <img src="https://streak-stats.demolab.com?user=vaibhavraj072&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&border_radius=10" width="100%" /> | <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" /> |
 
 </div>
 
