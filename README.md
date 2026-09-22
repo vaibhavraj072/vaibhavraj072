@@ -157,13 +157,16 @@
 ---
 
 <!-- Contribution Graph Snake -->
-## 🐍 Contribution Activity
+<!-- GitHub Analytics Dashboard -->
+## 📊 Development Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vaibhavraj072/vaibhavraj072/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
-<br/>
+| 🔥 Contribution Streak | 📈 Overall Stats |
+| :---: | :---: |
+| <img src="https://streak-stats.demolab.com?user=vaibhavraj072&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&border_radius=10" width="100%" /> | <img src="https://github-readme-stats.vercel.app/api?username=vaibhavraj072&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" /> |
+
+</div>
 
 ---
 
