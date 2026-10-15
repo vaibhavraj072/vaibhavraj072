@@ -35,6 +35,21 @@
 
 ---
 
+<!-- GitHub Analytics Dashboard -->
+## 📊 Development Analytics
+
+<div align="center">
+
+| 🔥 Contribution Streak | 📈 Profile Summary |
+| :---: | :---: |
+| <img src="https://streak-stats.demolab.com?user=vaibhavraj072&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&border_radius=10" width="100%" /> | <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" /> |
+
+</div>
+
+<br/>
+
+---
+
 <!-- About Me -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
@@ -100,21 +115,6 @@
 
 ---
 
-<!-- GitHub Analytics Dashboard -->
-## 📊 Development Analytics
-
-<div align="center">
-
-| 🔥 Contribution Streak | 📈 Profile Summary |
-| :---: | :---: |
-| <img src="https://streak-stats.demolab.com?user=vaibhavraj072&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff9900&currStreakLabel=58a6ff&border_radius=10" width="100%" /> | <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" /> |
-
-</div>
-
-<br/>
-
----
-
 <!-- Featured Projects -->
 ## 🌟 Featured Projects
 
@@ -139,7 +139,7 @@
 
 <pre><code>
 ┌─────────────────────────────────────────────────────────────┐
-│                    🧠 Learning & Building                   │
+│                     🧠 Learning & Building                  │
 ├─────────────────────────────────────────────────────────────┤
 │  🤖  Agentic AI & LLM Integration                           │
 │  🏗️  System Design & Scalable Architectures                 │
@@ -155,8 +155,6 @@
 <br/>
 
 ---
-
-
 
 <!-- Career Vision -->
 ## 🎯 Vision
