@@ -12,8 +12,6 @@
 
 <!-- Profile Views + Social Badges -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavraj072&amp;label=Profile%20Views&amp;color=58a6ff&amp;style=flat-square" alt="Profile Views" />
-  &nbsp;
   <a href="https://www.linkedin.com/in/vaibhavrraj/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&amp;logo=linkedin&amp;logoColor=white" />
   </a>
