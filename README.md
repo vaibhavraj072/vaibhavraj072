@@ -217,5 +217,5 @@ I'm always open to **technology discussions**, **AI & software development**, **
 </div>
 
 <div align="center">
-  <i>⭐ Star some repos if you find my work interesting!</i>
+  <i>Trying to figure out how things works!</i>
 </div>
